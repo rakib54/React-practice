@@ -1,0 +1,94 @@
+[{
+    "id": 1,
+    "name": "Rakibur Rahman",
+    "image":"https://i.ibb.co/2cNcdB9/profile1.png",
+    "email": "mmelly0@rakuten.co.jp",
+    "gender": "Male",
+    "salary":300000
+  }, {
+    "id": 2,
+    "name": "Mst Sindee",
+    "email": "sblaszczyk1@sogou.com",
+    "gender": "Male",
+    "salary":300000
+    
+  }, {
+    "id": 3,
+    "name": "Heidie watson",
+    "email": "hdegoy2@blinklist.com",
+    "gender": "Female",
+    "salary":300000
+    
+  }, {
+    "id": 4,
+    "name": "Philbert beiber",
+    "email": "ppetrolli3@pcworld.com",
+    "gender": "Male",
+    "salary":300000
+  }, {
+    "id": 5,
+    "name": "Brant king",
+    "email": "byurin4@hhs.gov",
+    "gender": "Female",
+    "salary":300000
+  }, {
+    "id": 6,
+    "name": "Georgeanna Andriana",
+    "email": "gziem5@vk.com",
+    "gender": "Female",
+    "salary":300000
+  }, {
+    "id": 7,
+    "name": "Victoria justice",
+    "email": "vblagbrough6@cornell.edu",
+    "gender": "Female",
+    "salary":300000
+  }, {
+    "id": 8,
+    "name": "Millicent Ob",
+    "email": "mfirebrace7@squidoo.com",
+    "gender": "Male",
+    "salary":300000
+  }, {
+    "id": 9,
+    "name": "Salem Khan",
+    "email": "sabramsky8@chron.com",
+    "gender": "Male",
+    "salary":300000
+  }, {
+    "id": 10,
+    "name": "Lorne De",
+    "email": "lkilban9@state.gov",
+    "gender": "Female",
+    "salary":300000
+  }, {
+    "id": 11,
+    "name": "Kali",
+    "email": "kbiera@skype.com",
+    "gender": "Male",
+    "salary":300000
+  }, {
+    "id": 12,
+    "name": "Poul",
+    "email": "psquireb@webmd.com",
+    "gender": "Male",
+    "salary":300000
+  }, {
+    "id": 13,
+    "name": "Maximo",
+    "email": "mhebdenc@sourceforge.net",
+    "gender": "Male",
+    "salary":300000
+  }, {
+    "id": 14,
+    "name": "Tobey",
+    "email": "tlairdcraigd@cam.ac.uk",
+    "gender": "Male",
+    "salary":200000
+  }, {
+    "id": 15,
+    "name": "Rosamund",
+    "email": "rmordacaie@addtoany.com",
+    "gender": "Male",
+    "salary":400000
+  }]

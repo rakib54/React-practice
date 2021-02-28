@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    color: rgb(78, 119, 231);
+}
+.header nav{
+    font-size: 20px;
+    margin: 10px;
+    background-color: rgb(78, 119, 231);
+    
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 2px;
+}
+.header nav a:hover{
+    background-color:  rgb(32, 66, 160);
+    cursor: pointer;
+}
+.addbtn{
+    margin-left: 350px;
+}
